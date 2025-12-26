@@ -1,0 +1,12 @@
+REPO_TAGLINE: Distributed systems • concurrency • scalability
+ASSETS_DIR: .github/readme
+CTA_TEXT: Access the full course website
+THEME: workload
+SITE_URL: https://academic-codex.github.io/SCE0616-Sistemas-Distribuidos
+
+BG_1: "#0F172A"
+BG_2: "#020617"
+TEXT_MAIN: "#F8FAFC"
+TEXT_MUTED: "#CBD5F5"
+ACCENT: "#60A5FA"
+CARD_RADIUS: "18"
