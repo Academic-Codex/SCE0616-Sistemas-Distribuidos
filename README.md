@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://academic-codex.github.io/SCE0616-Sistemas-Distribuidos">
-    <img src=".github/readme/hero.svg?v=2025-12-27T13:58:19.813338Z" width="100%" alt="Access the course website" />
+    <img src=".github/readme/hero.svg?v=2025-12-28T18:33:25.267196Z" width="100%" alt="Access the course website" />
   </a>
 </p>
 
